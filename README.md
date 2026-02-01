@@ -1,14 +1,18 @@
-﻿# LM2596S-Buck-Converter
+﻿# LM2596S Buck Converter
 
-Electronic hardware module designed using **Altium Designer**.
+Step-down DC-DC converter.
+
+## Function
+Efficient voltage regulation.
+
+## Key Specifications
+- Topology: Buck
+- Feedback: Adjustable
+- Capacitors: 1000uF / 470uF
+- Indicator: LED
 
 ## Hardware Preview
 ![Preview](preview.png)
 
-## Contents
-- Schematic
-- PCB Layout
-- 3D View
-
 ---
-Designed by **HOANG LE TRUNG KIEN**
+Designed by HOANG LE TRUNG KIEN
